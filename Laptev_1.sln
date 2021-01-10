@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laptev_1", "Laptev_1\Laptev_1.vcxproj", "{E3762655-0C94-4629-8964-021B6BD6088C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Debug|x64.ActiveCfg = Debug|x64
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Debug|x64.Build.0 = Debug|x64
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Debug|x86.Build.0 = Debug|Win32
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Release|x64.ActiveCfg = Release|x64
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Release|x64.Build.0 = Release|x64
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Release|x86.ActiveCfg = Release|Win32
+		{E3762655-0C94-4629-8964-021B6BD6088C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956C868F-E9B9-43DA-AD37-D405B6004B3C}
+	EndGlobalSection
+EndGlobal
